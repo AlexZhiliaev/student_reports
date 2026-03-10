@@ -1,0 +1,1 @@
+﻿from reports.median_coffee import generate_median_coffee_report
